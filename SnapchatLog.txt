@@ -5,10 +5,3 @@
 5 Guy3@guy 1/7/2018 8:15:44 PM 1/7/2018 8:15:40 PM *,
 6 gu41@guysnap 1/7/2018 8:16:40 PM 1/7/2018 8:16:38 PM,
 7 guy@someguy 1/7/2018 8:16:40 PM 1/7/2018 8:16:38 PM - "Because I just dont like him that's all",
-
-1 Edo@edogaru 1/7/2018 9:36:15 PM 1/7/2018 9:36:14 PM * +
-1 Edo@edogaru 1/7/2018 9:36:45 PM 1/7/2018 9:36:44 PM * +
-1 Edo@edogaru 1/7/2018 9:38:29 PM 1/7/2018 9:38:28 PM * +
-1 Edo@edogaru 1/7/2018 9:38:51 PM 1/7/2018 9:38:50 PM * +
-1 Edo@edogaru 1/7/2018 9:40:20 PM 1/7/2018 9:40:17 PM * +
-1 Edo@edogaru 1/7/2018 9:44:40 PM 1/7/2018 9:44:23 PM * +
