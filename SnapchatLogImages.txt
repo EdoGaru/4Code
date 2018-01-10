@@ -1,7 +1,7 @@
 1 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
 2 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-3 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-4 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-5 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
+3 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_log.png,
+4 C:\Users\Edo\Pictures\SnapchatLogGraphics\log.png,
+5 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_log.png,
 6 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-7 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png
+7 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchatico.png
