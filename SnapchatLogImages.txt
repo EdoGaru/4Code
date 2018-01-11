@@ -1,10 +1,1 @@
-1 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-2 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-3 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_log.png,
-4 C:\Users\Edo\Pictures\SnapchatLogGraphics\log.png,
-5 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_log.png,
-6 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchat_logo.png,
-7 C:\Users\Edo\Pictures\SnapchatLogGraphics\Snapchatico.png,
-8 C:\Users\Edo\Desktop\8fd1ddc4-5f2b-4a91-95e7-4a383d5f7ef0.jpg,
-9 C:\Users\Edo\Desktop\Escritorio\Saitou.Yakumo.full.311121.jpg,
-10 C:\Users\Edo\Desktop\8fd1ddc4-5f2b-4a91-95e7-4a383d5f7ef0.jpg,
+
