@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Feed>
+  <Tasks>
+    <FileUpdateTask hotswap="true" updateTo="https://github.com/EdoGaru/4Code/blob/master/logo.png" localPath="logo.png"/>
+  </Tasks>
+</Feed>
