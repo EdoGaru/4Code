@@ -1,4 +1,4 @@
-Steins Gate;
+Steins Gate; in a different worldline
 
 Okabe
 Kurisu
@@ -7,3 +7,4 @@ Hashida (super hacker)
 Faris
 ibm 5100
 These are characters of the anime.
+In a different worldline
